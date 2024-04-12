@@ -6,7 +6,7 @@ The dataset was captured using an iPhone and transformed into event sequences wi
 For a fari comparison, we provide the original event sequences and sequences with noise at level of 1Hz/pixel, 3Hz/pixel and 5Hz/pixel, respectively.
 
 # :point_right: Citation
-Citation are welcome. The arXiv version of this article is avaliable.
+Citations are welcome. The arXiv version of this article is avaliable.
 
 # :dizzy: Demonstartion
 ![Campus1](https://github.com/shicy17/BUAA_campus/blob/main/Demonstration/Campus1.gif?raw=true "Campus1") ![Campus2](https://github.com/shicy17/BUAA_campus/blob/main/Demonstration/Campus2.gif?raw=true "Campus2")
