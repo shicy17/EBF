@@ -1,3 +1,5 @@
+# :EBF: An Event-based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising
+
 # :star: BUAA_Campus Denoising Dataset
 [Google drive: BUAA_Campus Denoising Dataset](https://drive.google.com/drive/folders/1NiswzR7yJ9z_nxOyc7dXW76b0hXZdViz?usp=sharing). For academic use only. This dataset is a part of our article "Event-Based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising". 
 
