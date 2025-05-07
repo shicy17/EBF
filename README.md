@@ -1,5 +1,9 @@
 # EBF: An Event-based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising
 
+# Abstract
+Neuromorphic Vision Sensors (NVS) have raised increasing attention due to their sparsity, low latency, and high dynamic range. However, they suffer from the background activity noise which causes unnecessary computational waste. Existing learning-based denoising methods usually achieve better performance than rule-based methods but require larger computational and storage resources. To make rule-based filters as competitive as learning-based filters, this paper proposes a novel filter, namely the Event-based Bilateral Filter (EBF) that utilizes both spatiotemporal and polarity information. EBF first assigns two types of weights to each nearest neighborhood pixel based on the temporal and polarity information of the event to be classified. Next, EBF multiplies and accumulates the weights to get a correlation score, which is then compared with a threshold to predict the label of the event. We evaluate the proposed methods on three neuromorphic datasets, including both simulated data and real-world data. EBF significantly improves the denoising accuracy compared with rule-based filters and can exceed or compete with learning-based methods}
+EBF achieves the best denoising accuracy compared with other rule-based and learning-based denoising methods across different noise levels.
+
 # :star: BUAA_Campus Denoising Dataset
 [Google drive: BUAA_Campus Denoising Dataset](https://drive.google.com/drive/folders/1NiswzR7yJ9z_nxOyc7dXW76b0hXZdViz?usp=sharing). For academic use only. This dataset is a part of our article "Event-Based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising". 
 
