@@ -22,6 +22,6 @@ Citations are welcome. The arXiv version of this article is avaliable.
 [Hu, Yuhuang, Shih-Chii Liu, and Tobi Delbruck. "v2e: From video frames to realistic DVS events." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.](http://arxiv.org/abs/2006.07722)
 
 # Acknowledgement
-We gratefully acknowledge Professor Tobi Delbruck for implementing EBF (as [AgePolarityDenoiser](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/AgePolarityDenoiser.java)) and [STCF](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/QuantizedSTCF.java) algorithms in the [jaer](https://github.com/SensorsINI/jaer) project.
+We gratefully acknowledge Professor Tobi Delbruck for implementing EBF (as [AgePolarityDenoiser](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/AgePolarityDenoiser.java)) and [STCF with polarity](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/SpatioTemporalCorrelationFilter.java) algorithms in the [jaer](https://github.com/SensorsINI/jaer) project.
 
 
