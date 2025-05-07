@@ -1,0 +1,21 @@
+python ebf1231retest.py dri 1hz ap
+python metricsonbifilter.py dri ap
+python plotroccurvehz230213.py campus ap
+python plotoldfilters250213.py
+python plotoldfilters250213.py campus ap
+python plotrocset250214.py
+python otherfiltersweep250215eccv.py dri 1hz stcf
+python otherfiltersweep250215eccv.py dri 3hz stcf
+python ebf1231retest.py dri 5hz ap
+python metricsonbifiltereccvdata.py dri ap
+python ebf1231retest.py campus 5Hz ap
+python ebf1231retest.py dri 3hz ap
+python ebf1231retest.py dri 3hz ap 32
+python ebf1231retest.py dri 1hz ap 32
+python ebf1231retest.py dri 5hz ap 32
+python metricsonbifiltercampusdata.py dri ap
+python ebf1231retest.py campus 1hz ap 32
+python ebf1231retest.py campus 3hz ap 32
+python draw_auc250213.py
+python plotroccurve250214.py campus
+python metricsonbifiltercampusdata.py campus ap
