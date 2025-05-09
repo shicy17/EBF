@@ -18,7 +18,7 @@ Citations are welcome. The arXiv version of this article is avaliable.
 
 
 # :clap: Acknowledgement
-We gratefully acknowledge Professor Tobi Delbruck for implementing EBF (as [AgePolarityDenoiser](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/AgePolarityDenoiser.java)) and [STCF with polarity](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/SpatioTemporalCorrelationFilter.java) algorithms in the [jaer](https://github.com/SensorsINI/jaer) project.
+We gratefully acknowledge Professor Tobi Delbruck for implementing EBF (as [AgePolarityDenoiser](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/AgePolarityDenoiser.java)) and PFD (as [STCF with polarity](https://github.com/SensorsINI/jaer/blob/master/src/net/sf/jaer/eventprocessing/filter/SpatioTemporalCorrelationFilter.java)) algorithms in the [jaer](https://github.com/SensorsINI/jaer) project.
 
 Note that since the Campus dataset includes a vast number of events, we utilized the first 3 million events from each sequence for our experiments.
 
