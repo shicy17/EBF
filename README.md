@@ -5,6 +5,19 @@ Neuromorphic Vision Sensors (NVS) have raised increasing attention due to their 
 
 # :point_right: Citation
 Citations are welcome.
+```
+@ARTICLE{10994567,
+  author={Guo, Shasha and Shi, Chenyang and Wang, Lei and Jin, Jing and Lu, Yuliang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={EBF: An Event-based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Noise reduction;Information filters;Noise;Correlation;Accuracy;Spatiotemporal phenomena;Cameras;Mathematical models;Artificial neural networks;Training;Neuromorphic Vision Sensor;denoising;event;bilateral filter},
+  doi={10.1109/TCSVT.2025.3568604}}
+
+```
 
 # :star: BUAA_Campus Denoising Dataset
 [Google drive: BUAA_Campus Denoising Dataset](https://drive.google.com/drive/folders/1NiswzR7yJ9z_nxOyc7dXW76b0hXZdViz?usp=sharing). For academic use only. This dataset is a part of our article "Event-Based Bilateral Filter for Effective Neuromorphic Vision Sensor Denoising". 
